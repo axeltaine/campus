@@ -8,11 +8,11 @@ html {
 }
 body {
     font-family: Arial;
-   
+   position: relative;
 }
 
 div {
-    
+
 }
 .carousel {
     width: 100%;
@@ -28,11 +28,11 @@ canvas {
 
 .container-fluid {
     padding-bottom: 30px;
-  
+
     align-items: center;
     padding-right: 0;
     padding-left: 0;
-  
+
 }
 
 .card {
@@ -45,5 +45,3 @@ canvas {
     background: transparent;
     width: 100%;
 }
-
-
