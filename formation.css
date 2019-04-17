@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #608DEC;
+
+}
+
+a h2:hover {
+  text-decoration: none;
+  color: #608DEC;
+}
+
+.jumbotron {
+ margin-bottom: 0px;
+ height: 350px;
+ color: Black; /* Le texte sera affiché en blanc */
+ background:transparent;
+ width: 100%;
+}
+
+.jumbotron h1 {
+  color: #D00106;
+  font-size: 8em;
+  text-shadow: 6px 6px 2px black;
+  font-style: italic;
+}
+
+.bg-cover{
+  background-image: url('img/ducal.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.photo {
+  background-color: red;
+}
+
+.picture {
+  border: solid 2px;
+  border-color: #D00106;
+}
+
+.button {
+  background-color: #D00106;
+  color: white;
+  border: none;
+  width: 120px;
+  height: 60px;
+  border-radius: 5%;
+}
+
+.button:hover {
+  background-color: #608DEC;
+  transition: 100ms;
+}
+
+h2 {
+  font-size: 2em;
+  color: #D00106;
+  font-style: italic;
+  text-shadow: 1px 1px 1px black;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+    width: 100%;
+}
+
+#content {
+    height: 2000px;
+}
+
+a i {
+  color: black;
+}
+
+a i:hover {
+  color: #608DEC;
+}
