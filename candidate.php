@@ -15,7 +15,7 @@
     <body>
       <!-- header fait par alain-->
        <?php include 'header.html'; ?>
-       
+
       <div class="jumbotron bg-cover"> <!-- ********* JUMBOTRON **********-->
 
               <h1>Je Candidate</h1>
@@ -93,6 +93,6 @@
       <!--===================les scripts===================-->
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-        <script src="parallax.js"></script>
+        <script src="parallax1.js/parallax.js"></script>
     </body>
   </html>
