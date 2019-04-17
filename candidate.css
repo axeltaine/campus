@@ -1,0 +1,65 @@
+html{
+  margin: 0;
+  height:100%;
+  width: 100%;
+}
+
+body{
+  width: 100%;
+  min-height:100%;
+  margin:0;
+  padding-top:50px;
+  padding-bottom: 197px;
+  position:relative;
+}
+
+.container{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/*=================le jumbotron=================*/
+.jumbotron {
+ margin-bottom: 0px;
+ height: 300px;
+ color: Black; /* Le texte sera affiché en blanc */
+ text-shadow: black 0.3em 0.3em 0.3em;
+ background:transparent;
+}
+
+.bg-cover{
+  background-image: url('images/campus-moulin-leblanc.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+/*=================le parallax=============*/
+.parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
+
+/*=================les coordonnées=============*/
+
+h2{
+  text-decoration: underline;
+  color:#AD171A;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.map-responsive{
+padding-bottom:56.25%;
+position:relative;>
+}
+
+.map-responsive iframe {
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
