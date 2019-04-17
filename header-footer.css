@@ -4,14 +4,10 @@ footer{
   position:absolute;
   text-align: center;
   padding: 10px;
+  background-color: #1E1EC8;
+  color: white;
 }
 
 footer .une{
   background-color: #3F38FF;
-  color: white;
-}
-
-footer .deux{
-  background-color: #1E1EC8;
-  color:white;
 }
