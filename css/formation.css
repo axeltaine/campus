@@ -111,7 +111,7 @@ a i:hover {
    display: none;
  }
  .picture {
-   display: none;
+display: none;
  }
 }
 
@@ -120,7 +120,6 @@ a i:hover {
    display: none;
  }
  .picture {
-  position: relative;
-  left: 30px;
+display: none;
  }
  }
