@@ -52,3 +52,11 @@ canvas {
 .row{
   max-width: 100%;
 }
+
+a i {
+  color: black;
+}
+
+a i:hover {
+  color: #608DEC;
+}
