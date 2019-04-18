@@ -156,7 +156,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col">
+            <div class="col-xl-6 col-md-6 ">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
@@ -180,12 +180,12 @@
 
 
             </div>
-            <div class="col">
-                <img src="img/campus-moulin-leblanc-coworking.jpg" alt="">
+            <div class="col-xl-6 col-md-6 ">
+                <img src="img/campus-moulin-leblanc-coworking.jpg" style="max-width: 100%;">
             </div>
         </div>
         <div class="row">
-            <div class="col">
+            <div class="col-xl-12 col-md-12">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
