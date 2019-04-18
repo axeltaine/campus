@@ -21,10 +21,10 @@
        <!-- jumbotron -->
        <div class="row">
          <div class="col-lg-1"></div>
-         <div class="col-lg-7" style="height: 500px;">
-           <br><a href="#"><img class="picture" src="img/simplon.jpg" style="width: 700px; height: 400px;"/></a>
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
+          <br><a href="#"><img class="picture" src="img/simplon.jpg" style="width: auto; height: 370px;"/></a>
          </div>
-           <div class="col-lg-3">
+           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
              <div><br><a href="#"><h2>SIMPLON</h2></a>
               <br><p>Soleo saepe ante oculos ponere, idque libenter crebris usurpare sermonibus, omnis nostrorum imperatorum, omnis exterarum gentium potentissimorumque populorum, omnis clarissimorum regum res gestas, cum tuis nec contentionum magnitudine nec numero proeliorum nec varietate regionum nec celeritate conficiendi nec dissimilitudine bellorum posse conferri; nec vero disiunctissimas terras citius passibus cuiusquam potuisse peragrari, quam tuis non dicam cursibus, sed victoriis lustratae sunt.</p></div></div>
             <div class="col-lg-1"></div>
@@ -35,13 +35,14 @@
          </div>
            <!-- parallax -->
            <div class="row">
-                 <div class="col-lg-2"></div>
-             <div class="col-lg-4"  style="height: 400px;"><br><a href="#"><h2>PRE-REQUIS</h2></a>
+                 <div class="col-md-1 col-lg-2"></div>
+             <div class="col-xs-12 col-sm-12 col-md-5 col-lg-4"  style="height: auto;"><br><a href="#"><h2>PRE-REQUIS</h2></a>
              <br><p>Soleo saepe ante oculos ponere, idque libenter crebris usurpare sermonibus, omnis nostrorum imperatorum, omnis exterarum gentium potentissimorumque populorum, omnis clarissimorum regum res gestas, cum tuis nec contentionum magnitudine nec numero proeliorum nec varietate regionum nec celeritate conficiendi nec dissimilitudine bellorum posse conferri; nec vero disiunctissimas terras citius passibus cuiusquam potuisse peragrari, quam tuis non dicam cursibus, sed victoriis lustratae sunt.</p></div>
-              <div class="col-lg-4"><br><a href="#"><h2>PROGRAMME</h2></a>
+
+              <div class="col-xs-12 col-sm-12 col-md-5 col-lg-4"><br><a href="#"><h2>PROGRAMME</h2></a>
                 <br><p>Soleo saepe ante oculos ponere, idque libenter crebris usurpare sermonibus, omnis nostrorum imperatorum, omnis exterarum gentium potentissimorumque populorum, omnis clarissimorum regum res gestas, cum tuis nec contentionum magnitudine nec numero proeliorum nec varietate regionum nec celeritate conficiendi nec dissimilitudine bellorum posse conferri; nec vero disiunctissimas terras citius passibus cuiusquam potuisse peragrari, quam tuis non dicam cursibus, sed victoriis lustratae sunt.</p>
                </div>
-                   <div class="col-lg-2"></div>
+                   <div class="col-md-1 col-lg-2"></div>
              </div>
 
          <!-- programme et prés-requis -->

@@ -66,7 +66,7 @@
 
 
 
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
 
             <iframe class="framebox inherit-locale " style="width: calc(100% + 40px); height: 347px;"
@@ -100,7 +100,7 @@
 
 
                 <div class="col-xl-3 col-md-6 mb-4 mt-5">
-                    <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="card border-left-primary shadow h-100 py-2 mx-auto">
                         <div class="card-body">
                             <div class="row no-gutters align-items-center">
                                 <div class="col mr-2">
@@ -118,7 +118,7 @@
 
 
                 <div class="col-xl-3 col-md-6 mb-4 mt-5">
-                    <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="card border-left-primary shadow h-100 py-2 mx-auto">
                         <div class="card-body">
                             <div class="row no-gutters align-items-center">
                                 <div class="col mr-2">
@@ -135,7 +135,7 @@
                 </div>
 
                 <div class="col-xl-3 col-md-6 mb-4 mt-5">
-                    <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="card border-left-primary shadow h-100 py-2 mx-auto">
                         <div class="card-body">
                             <div class="row no-gutters align-items-center">
                                 <div class="col mr-2">
@@ -156,7 +156,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col">
+            <div class="col-xl-6 col-md-6 ">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
@@ -180,12 +180,12 @@
 
 
             </div>
-            <div class="col">
-                <img src="img/campus-moulin-leblanc-coworking.jpg" alt="">
+            <div class="col-xl-6 col-md-6 ">
+                <img src="img/campus-moulin-leblanc-coworking.jpg" style="max-width: 100%;">
             </div>
         </div>
         <div class="row">
-            <div class="col">
+            <div class="col-xl-12 col-md-12">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
@@ -208,7 +208,7 @@
         integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <script src="https://storage.googleapis.com/vrview/2.0/build/vrview.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="parallax.js-1.5.0/parallax.js"></script>
+    <script src="parallax1.js/parallax.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">

@@ -34,6 +34,10 @@ canvas {
 
 }
 
+.container {
+    padding-bottom: 30px;
+}
+
 .card {
     max-width: 200px;
 }
@@ -47,4 +51,16 @@ canvas {
 
 .global{
   min-height: calc(100vh - 150px);
+}
+
+.row{
+  max-width: 100%;
+}
+
+a i {
+  color: black;
+}
+
+a i:hover {
+  color: #608DEC;
 }

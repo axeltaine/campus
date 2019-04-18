@@ -23,7 +23,7 @@ a h2:hover {
 
 .jumbotron {
  margin-bottom: 0px;
- height: 350px;
+ height: 400px;
  color: Black; /* Le texte sera affiché en blanc */
  background:transparent;
  width: 100%;
@@ -50,6 +50,11 @@ a h2:hover {
 .picture {
   border: solid 2px;
   border-color: #D00106;
+}
+
+.picture:hover {
+  border: solid 4px;
+  border-color: #608DEC;
 }
 
 .button {
