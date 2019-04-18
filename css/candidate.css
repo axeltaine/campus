@@ -1,5 +1,6 @@
 html{
   margin: 0;
+  padding: 0;
   height:100%;
   width: 100%;
 }
@@ -7,8 +8,7 @@ html{
 body{
   width: 100%;
   min-height:100%;
-  margin:0;
-  padding-top:50px;
+  padding-top:76px;
 }
 
 .container{
@@ -23,7 +23,7 @@ body{
 .jumbotron {
  margin-bottom: 0px;
  height: 300px;
- color: Black; /* Le texte sera affiché en blanc */
+ color: Black;
  text-shadow: black 0.3em 0.3em 0.3em;
  background:transparent;
 }
