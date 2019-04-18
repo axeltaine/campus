@@ -31,7 +31,7 @@ a h2:hover {
 
 .jumbotron h1 {
   color: #D00106;
-  font-size: 8em;
+  font-size: 6em;
   text-shadow: 6px 6px 2px black;
   font-style: italic;
 }
@@ -98,3 +98,24 @@ a i:hover {
 .global{
   min-height: calc(100vh - 150px);
 }
+
+//**** partie media queries pour images *****//
+
+@media screen and (max-width: 600px) {
+ .jumbotron h1 {
+   display: none;
+ }
+ .picture {
+   display: none;
+ }
+}
+
+@media screen and (max-width: 800px) {
+ .jumbotron h1 {
+   display: none;
+ }
+ .picture {
+  position: relative;
+  left: 30px;
+ }
+ }
