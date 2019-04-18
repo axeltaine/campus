@@ -13,6 +13,7 @@
   </head>
   <body>
     <?php include('header.html'); ?>
+    <div class="global">
         <div class="container-fluid">
     <div class="row">
       <div class="jumbotron bg-cover"><center><h1>FORMATION</h1></center></div>
@@ -45,17 +46,15 @@
 
          <!-- programme et prés-requis -->
            <div class="row">
-             <div class="col-lg-4">
-               </div>
-            <div class="col-lg-4"  style="height: 100px;"><br><center><a href="#"><button class="button">je postule</button></a></center>
-               </div>
-                 <div class="col-lg-3"></div>
-                      <div class="col-lg-1"><a href="#"><i class="fas fa-chevron-up fa-2x" id="top"></i></a></div>
-                   </div>
+             <div class="col-lg-4"></div>
+             <div class="col-lg-4"  style="height: 100px;"><br><center><a href="#"><button class="button">je postule</button></a></center>
              </div>
+             <div class="col-lg-3"></div>
+             <div class="col-lg-1"><a href="#"><i class="fas fa-chevron-up fa-2x" id="top"></i></a></div>
+            </div>
+            </div>
            <!-- postuler -->
     </div>
-    <!-- parallax -->
     <?php include 'footer.html'; ?>
 
 <script src="parallax1.js/parallax.js"></script>

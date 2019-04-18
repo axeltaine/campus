@@ -16,6 +16,7 @@
 
 
 <?php include 'header.html'; ?>
+<div class="global">
 
     <div class="container-fluid">
         <div class="row">
@@ -65,7 +66,7 @@
 
 
 
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
 
             <iframe class="framebox inherit-locale " style="width: calc(100% + 40px); height: 347px;"
@@ -176,14 +177,7 @@
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
                 </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
-                    tempore
-                    distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
-                </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
-                    tempore
-                    distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
-                </p>
+
 
             </div>
             <div class="col">
@@ -196,15 +190,18 @@
                     tempore
                     distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
                 </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis sequi corrupti fuga? Neque ex illum
-                    tempore
-                    distinctio, expedita nostrum nisi at dignissimos vel fuga veritatis quia. Tempore, ullam amet. Iste.
-                </p>
+
             </div>
         </div>
 
     </div>
-
+    <div class="row">
+      <div class="col-lg-4"></div>
+      <div class="col-lg-4"></div>
+      <div class="col-lg-3"></div>
+      <div class="col-lg-1"><a href="#"><i class="fas fa-chevron-up fa-2x" id="top"></i></a></div>
+     </div>
+  </div>
     <?php include 'footer.html'; ?>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"

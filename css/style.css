@@ -8,7 +8,6 @@ html {
 }
 body {
     font-family: Arial;
-   position: relative;
 }
 
 div {
@@ -44,4 +43,8 @@ canvas {
     min-height: 200px;
     background: transparent;
     width: 100%;
+}
+
+.global{
+  min-height: calc(100vh - 150px);
 }

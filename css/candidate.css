@@ -9,8 +9,6 @@ body{
   min-height:100%;
   margin:0;
   padding-top:50px;
-  padding-bottom: 197px;
-  position:relative;
 }
 
 .container{
@@ -31,7 +29,7 @@ body{
 }
 
 .bg-cover{
-  background-image: url('images/campus-moulin-leblanc.jpg');
+  background-image: url('../img/campus-moulin-leblanc.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -62,4 +60,8 @@ top:0;
 height:100%;
 width:100%;
 position:absolute;
+}
+
+.global{
+  min-height: calc(100vh - 150px);
 }
