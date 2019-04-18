@@ -66,7 +66,7 @@
 
 
 
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
 
             <iframe class="framebox inherit-locale " style="width: calc(100% + 40px); height: 347px;"
