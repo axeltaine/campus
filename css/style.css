@@ -48,3 +48,7 @@ canvas {
 .global{
   min-height: calc(100vh - 150px);
 }
+
+.row{
+  max-width: 100%;
+}
