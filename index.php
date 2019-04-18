@@ -8,8 +8,8 @@
     <title>index</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link href="header-footer.css" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <link href="css/header-footer.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -78,7 +78,7 @@
     </div>
 
     <div class="container-fluid">
-        <div class="parallax-window" data-parallax="scroll" data-image-src="campus-moulin-leblanc-1.jpg">
+        <div class="parallax-window" data-parallax="scroll" data-image-src="img/campus-moulin-leblanc-1.jpg">
             <div class="row">
                 <div class="col-xl-3 col-md-6 mb-4 mt-5 ">
                     <div class="card border-left-primary shadow h-100 py-2 mx-auto">
@@ -187,7 +187,7 @@
 
             </div>
             <div class="col">
-                <img src="campus-moulin-leblanc-coworking.jpg" alt="">
+                <img src="img/campus-moulin-leblanc-coworking.jpg" alt="">
             </div>
         </div>
         <div class="row">
@@ -212,7 +212,7 @@
     <script src="https://storage.googleapis.com/vrview/2.0/build/vrview.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="parallax.js-1.5.0/parallax.js"></script>
-    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
