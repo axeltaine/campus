@@ -1,5 +1,5 @@
 footer{
-
+  color: black;
 }
 
 footer .une{
@@ -7,7 +7,6 @@ footer .une{
   height: 190px;
   border-bottom: solid 1px;
   border-top: solid 1px;
-  color: black;
   line-height: 30px;
   align-items: center;
 }
@@ -22,11 +21,11 @@ footer .deux {
   text-align: center;
 }
 
-a {
+footer a {
   color: black;
 }
 
-a:hover {
+footer a:hover {
   color: #D00106;
   text-shadow: 1px 1px 1px black;
 }
