@@ -17,7 +17,9 @@ footer .une {
 footer .deux {
   text-align: center;
 }
-
+footer li{
+    list-style: none;
+}
 footer a {
   color: black;
 }
@@ -25,4 +27,10 @@ footer a {
 footer a:hover {
   color: #D00106;
   text-shadow: 1px 1px 1px black;
+}
+
+@media screen and (max-width: 600px) {
+  .une {
+    overflow-y: scroll;
+  }
 }
