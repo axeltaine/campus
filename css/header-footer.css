@@ -32,5 +32,6 @@ footer a:hover {
 @media screen and (max-width: 600px) {
   .une {
     overflow-y: scroll;
+    text-align: center;
   }
 }
