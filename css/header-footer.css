@@ -1,19 +1,16 @@
-footer{
-  color: black;
-}
-
-footer .une{
+footer .une {
 
   height: 190px;
   border-bottom: solid 1px;
   border-top: solid 1px;
+  color: black;
   line-height: 30px;
   align-items: center;
 }
 
 .taille {
   height: 75px;
-text-align: center;
+  text-align: center;
 }
 
 footer .deux {
@@ -21,11 +18,11 @@ footer .deux {
   text-align: center;
 }
 
-footer a {
+a {
   color: black;
 }
 
-footer a:hover {
+a:hover {
   color: #D00106;
   text-shadow: 1px 1px 1px black;
 }

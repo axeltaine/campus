@@ -10,6 +10,9 @@ body {
     font-family: Arial;
 }
 
+div {
+
+}
 .carousel {
     width: 100%;
 }
@@ -18,9 +21,13 @@ body {
     height: 600px;
 }
 
+canvas {
+    width: 100%;
+}
 
 .container-fluid {
     padding-bottom: 30px;
+
     align-items: center;
     padding-right: 0;
     padding-left: 0;
@@ -47,8 +54,7 @@ body {
 }
 
 .row{
-  margin-left: 0;
-  margin-right: 0;
+  min-width: 100%;
 }
 
 a i {
