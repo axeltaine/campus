@@ -56,6 +56,7 @@
             </div>
            <!-- postuler -->
     </div>
+    <br>
     <?php include 'footer.html'; ?>
 
 <script src="parallax1.js/parallax.js"></script>
