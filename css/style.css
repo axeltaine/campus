@@ -46,7 +46,10 @@ body {
   min-height: calc(100vh - 150px);
 }
 
-
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
 
 a i {
   color: black;
