@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
 html {
     width: 100%;
     height: 100%;
 }
+
 body {
     font-family: Arial;
 }
@@ -42,20 +44,20 @@ body {
     width: 100%;
 }
 
-.global{
-  min-height: calc(100vh - 150px);
+.global {
+    min-height: calc(100vh - 150px);
 }
 
-.row{
-  max-width: 100%;
-  margin-right:0;
-  margin-left:0;
+.row {
+    max-width: 100%;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 a i {
-  color: black;
+    color: black;
 }
 
 a i:hover {
-  color: #608DEC;
+    color: #608DEC;
 }
