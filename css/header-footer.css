@@ -31,8 +31,10 @@ footer a:hover {
 }
 
 @media screen and (max-width: 800px) {
-  .une {
-    overflow-y: scroll;
+  footer .une {
+    display: flex;
+    flex-direction: column;
+    height: 420px;
     text-align: center;
   }
 }
