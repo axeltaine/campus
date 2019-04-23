@@ -77,6 +77,17 @@ position:absolute;
   margin-left:0;
 }
 
+div .row{
+  margin-left: 0;
+  margin-right: 0;
+}
+footer{
+  padding-left: 0;
+  padding-right: 0;
+  margin-right:0;
+  margin-left: 0;
+}
+
 a i {
   color: black;
 }
