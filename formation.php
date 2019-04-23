@@ -22,10 +22,10 @@
        <div class="row">
          <div class="col-lg-1"></div>
          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">
-          <br><a href="#"><img class="picture" src="img/simplon.jpg" style="width: auto; height: 370px;"/></a>
+          <br><a href="formation.php"><img class="picture" src="img/simplon.jpg" style="width: auto; height: 370px;"/></a>
          </div>
            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3">
-             <div><br><a href="#"><h2>SIMPLON</h2></a>
+             <div><br><a href="formation.php"><h2>SIMPLON</h2></a>
               <br><p>Soleo saepe ante oculos ponere, idque libenter crebris usurpare sermonibus, omnis nostrorum imperatorum, omnis exterarum gentium potentissimorumque populorum, omnis clarissimorum regum res gestas, cum tuis nec contentionum magnitudine nec numero proeliorum nec varietate regionum nec celeritate conficiendi nec dissimilitudine bellorum posse conferri; nec vero disiunctissimas terras citius passibus cuiusquam potuisse peragrari, quam tuis non dicam cursibus, sed victoriis lustratae sunt.</p></div></div>
             <div class="col-lg-1"></div>
          </div>
