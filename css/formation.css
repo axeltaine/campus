@@ -10,6 +10,7 @@ body {
 a {
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: none;
   color: #608DEC;
@@ -104,11 +105,11 @@ a i:hover {
   min-height: calc(100vh - 150px);
 }
 
-//**** partie media queries pour images *****//
+//**** partie media queries *****//
 
 @media screen and (max-width: 600px) {
  .jumbotron h1 {
-   display: none;
+   display: none; //**disparition des images en responsive**//
  }
  .picture {
 display: none;
