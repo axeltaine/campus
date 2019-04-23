@@ -29,7 +29,7 @@ footer a:hover {
   text-shadow: 1px 1px 1px black;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .une {
     overflow-y: scroll;
     text-align: center;
