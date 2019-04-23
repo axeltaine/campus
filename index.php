@@ -18,6 +18,8 @@
 <?php include 'header.html'; ?>
 <div class="global">
 
+<!-- slider -->
+
     <div class="container-fluid">
         <div class="row">
             <div id="carouselSlides" class="carousel slide carousel-fade" data-ride="carousel">
@@ -64,7 +66,10 @@
         </div>
     </div>
 
+<!-- fin slider -->
 
+
+<!-- 360° -->
 
     <div class="container">
         <div class="row">
@@ -77,6 +82,10 @@
 
         </div>
     </div>
+
+    <!-- fin 360° -->
+
+    <!-- parallax + cards -->
 
     <div class="container-fluid">
         <div class="parallax-window" data-parallax="scroll" data-image-src="img/campus-moulin-leblanc-1.jpg">
@@ -154,6 +163,11 @@
         </div>
     </div>
 
+
+    <!-- fin parallax + cards -->
+
+    <!-- text + img -->
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-xl-6 col-md-6 ">
@@ -195,6 +209,10 @@
         </div>
 
     </div>
+
+     <!-- fin text + img -->
+
+      <!-- boutton top -->
     <div class="row">
       <div class="col-lg-4"></div>
       <div class="col-lg-4"></div>
@@ -202,6 +220,8 @@
       <div class="col-lg-1"><a href="#"><i class="fas fa-chevron-up fa-2x" id="top"></i></a></div>
      </div>
   </div>
+
+  <!-- fin boutton top -->
     <?php include 'footer.html'; ?>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
